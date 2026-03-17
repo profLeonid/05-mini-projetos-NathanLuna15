@@ -111,6 +111,21 @@ button:hover {
   justify-content: center;
 }
 
+.baixa {
+  border: 2px solid #7f1d1d;
+  box-shadow: 0 0 16px #7f1d1d;
+}
+
+.media {
+  border: 2px solid #db6402;
+  box-shadow: 0 0 16px #a55917;
+}
+
+.alta {
+  border: 2px solid #14532d;
+  box-shadow: 0 0 16px #14532d;
+}
+
 footer {
   display: flex;
   align-items: flex-end;

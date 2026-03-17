@@ -5,7 +5,7 @@ function removerClasses(){
     resultado.classList.remove("ate", "entre", "acima")
 }
 
-function calcularDsconto(){
+function calcularDesconto(){
     const preco = document.getElementById("preco")
     const percentual = document.getElementById("desconto")
     const resultado = document.getElementById("resultado")
